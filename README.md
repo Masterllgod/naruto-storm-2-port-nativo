@@ -61,12 +61,16 @@ Este port **não é um emulador de Xbox 360**. O executável do jogo (`default.x
 
 O port é feito para **uma versão específica** do executável. O código é recompilado a partir deste arquivo, então o que vale é o `default.xex` ser **idêntico**: confira o hash abaixo.
 
+> [!TIP]
+> Use o disco **norte-americano (NTSC-U)** ou **japonês (NTSC-J)** cujo `default.xex` tenha o hash abaixo. Disco europeu (PAL) não serve.
+
 | Campo | Valor |
 |---|---|
 | Jogo | Naruto Shippuden: Ultimate Ninja Storm 2 (Xbox 360) |
 | Title ID | `4E4D0819` |
 | Media ID | `6501C146` |
 | Versão do executável | `0.0.0.4` |
+| Trava de região do executável | NTSC-U (América do Norte) e NTSC-J (Japão); sem PAL |
 
 | Arquivo | Tamanho | SHA-1 | MD5 |
 |---|---|---|---|
