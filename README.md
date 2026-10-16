@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="docs/screenshots/icone.png" alt="Ícone" width="128">
+
 # 🌀 Naruto Shippuden: Ultimate Ninja Storm 2 — Port Nativo
 
 **O jogo de Xbox 360 rodando nativamente no Android (ARM64) e no PC (Windows x64), sem emulador de CPU.**
